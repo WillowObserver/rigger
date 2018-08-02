@@ -1,9 +1,9 @@
 /*
-package wang.lei.rigger.Entity;
+package com.here.rigger.domain;
 
 import javax.persistence.*;
 
-@Entity//注明是实体类
+@domain//注明是实体类
 @Table(name = "r_demo")//对应表名
 public class DemoEntity {
 	@Id

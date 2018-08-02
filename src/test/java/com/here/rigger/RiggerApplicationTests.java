@@ -1,4 +1,4 @@
-package wang.lei.rigger;
+package com.here.rigger;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

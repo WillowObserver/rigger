@@ -1,4 +1,4 @@
-package wang.lei.rigger.Config;
+package com.here.rigger.config;
 
 import com.alibaba.druid.support.http.StatViewServlet;
 import com.alibaba.druid.support.http.WebStatFilter;

@@ -1,17 +1,17 @@
 /*
-package wang.lei.rigger.Controller;
+package com.here.rigger.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.stereotype.Controller;
+import org.springframework.stereotype.controller;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
-import wang.lei.rigger.Dao.DemoDao;
-import wang.lei.rigger.Entity.DemoEntity;
+import com.here.rigger.dao.DemoDao;
+import com.here.rigger.domain.DemoEntity;
 
 import java.util.List;
 
-@Controller()
+@controller()
 @RequestMapping("/demo")
 public class DemoController {
 	@Autowired

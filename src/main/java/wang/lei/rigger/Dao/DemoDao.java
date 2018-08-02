@@ -1,3 +1,4 @@
+/*
 package wang.lei.rigger.Dao;
 
 import org.springframework.data.jpa.repository.JpaRepository;
@@ -8,3 +9,4 @@ import wang.lei.rigger.Entity.DemoEntity;
 public interface DemoDao extends JpaRepository<DemoEntity, Integer>{
 
 }
+*/

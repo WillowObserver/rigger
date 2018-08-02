@@ -1,3 +1,4 @@
+/*
 package wang.lei.rigger.Controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
@@ -31,3 +32,4 @@ public class DemoController {
 		return all;
 	}
 }
+*/

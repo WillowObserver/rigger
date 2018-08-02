@@ -1,3 +1,4 @@
+/*
 package wang.lei.rigger.Entity;
 
 import javax.persistence.*;
@@ -37,3 +38,4 @@ public class DemoEntity {
 				'}';
 	}
 }
+*/

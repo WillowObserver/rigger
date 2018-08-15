@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class RiggerApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(RiggerApplication.class, args);
+		//SpringApplication.run(RiggerApplication.class, args);
 		System.out.print("__________\n" +
 				         "|   __   \\\n" +
 				         "|  |  |   )                       _   __\n"+
